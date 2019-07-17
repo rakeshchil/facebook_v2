@@ -1,0 +1,4 @@
+com\facebook\testcases\TC_logintest_001.class
+com\facebook\pageobjects\Loginpage.class
+com\facebook\testcases\BaseClass.class
+com\facebook\utilities\Readconfig.class

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [facebook2]">
+  <test thread-count="5" verbose="0" name="facebook test2(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.facebook.testcases.TC_logintest_001">
+        <methods>
+          <include name="setup1"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.facebook.testcases.TC_logintest_001 -->
+    </classes>
+  </test> <!-- facebook test2(failed) -->
+</suite> <!-- Failed suite [facebook2] -->

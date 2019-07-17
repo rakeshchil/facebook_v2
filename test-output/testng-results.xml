@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="facebook2" duration-ms="19679" started-at="2019-07-15T10:03:37Z" finished-at="2019-07-15T10:03:57Z">
+    <groups>
+    </groups>
+    <test name="facebooktest2" duration-ms="19679" started-at="2019-07-15T10:03:37Z" finished-at="2019-07-15T10:03:57Z">
+      <class name="com.facebook.testcases.TC_logintest_001">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.facebook.testcases.TC_logintest_001@129a8472]" name="setup" is-config="true" duration-ms="18225" started-at="2019-07-15T15:33:37Z" finished-at="2019-07-15T15:33:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="setup1()[pri:0, instance:com.facebook.testcases.TC_logintest_001@129a8472]" name="setup1" duration-ms="1447" started-at="2019-07-15T15:33:55Z" finished-at="2019-07-15T15:33:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup1 -->
+      </class> <!-- com.facebook.testcases.TC_logintest_001 -->
+    </test> <!-- facebooktest2 -->
+  </suite> <!-- facebook2 -->
+</testng-results>
